@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T15:13:51.336Z" agent="5.0 (Windows)" etag="eTDx85PGUcx4ckroId1q" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-27T15:18:52.047Z" agent="5.0 (Windows)" etag="PWb-ydrDZzl2VQKDHagm" version="15.0.2" type="github">
   <diagram id="DeVc6nOlhxSPMMUo_RAu" name="Page-1">
-    <mxGraphModel dx="2893" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,10 +306,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="87XZA6IXtHBNSDy3XtOM-105" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1220" width="40" height="40" as="geometry" />
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-105" value="O-16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="994" y="1130" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="87XZA6IXtHBNSDy3XtOM-106" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-106" value="O-18" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="1330" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="87XZA6IXtHBNSDy3XtOM-107" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -318,8 +318,8 @@
         <mxCell id="87XZA6IXtHBNSDy3XtOM-108" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="1360" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="87XZA6IXtHBNSDy3XtOM-109" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1320" width="40" height="40" as="geometry" />
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-109" value="O-17" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="994" y="1250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="87XZA6IXtHBNSDy3XtOM-110" value="O-14" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="156" y="367" width="40" height="40" as="geometry" />
@@ -410,6 +410,57 @@
         </mxCell>
         <mxCell id="87XZA6IXtHBNSDy3XtOM-134" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Memasang kaki drone pada bagian bawah bottom frame&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1044" y="1040" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-135" value="60&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="959" y="1030" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-136" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="87XZA6IXtHBNSDy3XtOM-105" target="87XZA6IXtHBNSDy3XtOM-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="1140" as="sourcePoint" />
+            <mxPoint x="790" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-137" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Meletakkan kamera di atas drone&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1140" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-138" value="5&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="957" y="1140" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-139" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="1100" as="sourcePoint" />
+            <mxPoint x="1014" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-140" value="&lt;div align=&quot;left&quot;&gt;Camera&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="897" y="1080" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-142" value="&lt;div align=&quot;left&quot;&gt;1330&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="897" y="1100" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-144" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="87XZA6IXtHBNSDy3XtOM-109" target="87XZA6IXtHBNSDy3XtOM-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1310" as="sourcePoint" />
+            <mxPoint x="620" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-145" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="1206" as="sourcePoint" />
+            <mxPoint x="1014" y="1206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-146" value="Drone Arm" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="897" y="1186" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-147" value="1200" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="897" y="1206" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-148" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Memasang lengan drone sebanyak 8 lengan&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1260" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87XZA6IXtHBNSDy3XtOM-149" value="30&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="959" y="1250" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
