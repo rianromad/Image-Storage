@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T14:02:12.708Z" agent="5.0 (Windows)" etag="afojq_V5RybAOfwK6lyv" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T14:04:17.338Z" agent="5.0 (Windows)" etag="t0bBnUqxnLihQ9ZUGWIf" version="15.0.6" type="github">
   <diagram id="SvJlqrv_Ubx2b7r8ZZ3b" name="Page-1">
-    <mxGraphModel dx="1447" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
         <mxCell id="EQxsAdqln0tXPdf_CBqu-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EQxsAdqln0tXPdf_CBqu-43" target="EQxsAdqln0tXPdf_CBqu-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EQxsAdqln0tXPdf_CBqu-43" value="&lt;div&gt;Membutuhkan border&lt;/div&gt;&lt;div&gt;pada kain?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EQxsAdqln0tXPdf_CBqu-43" value="&lt;div&gt;Pakaian membutuhkan&lt;/div&gt;&lt;div&gt;border?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="439.94" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EQxsAdqln0tXPdf_CBqu-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EQxsAdqln0tXPdf_CBqu-46" target="EQxsAdqln0tXPdf_CBqu-43" edge="1">
