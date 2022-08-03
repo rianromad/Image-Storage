@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T04:20:50.738Z" agent="5.0 (Windows)" etag="lmpcXjgGdDd1hIShtSbw" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T04:21:35.859Z" agent="5.0 (Windows)" etag="frOE2cGbDOoOVq7EDmHi" version="20.2.2" type="github">
   <diagram id="sFOqKy-zPjzZgBcoSoZJ" name="Page-1">
     <mxGraphModel dx="948" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -436,6 +436,12 @@
         </mxCell>
         <mxCell id="uaMb6uv-dj3pLIz_Q6u4-96" value="Saat ini" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="640" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uaMb6uv-dj3pLIz_Q6u4-97" value="Corelap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uaMb6uv-dj3pLIz_Q6u4-98" value="ALDEP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
