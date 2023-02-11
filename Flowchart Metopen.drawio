@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T12:29:14.958Z" agent="5.0 (Windows)" etag="feaMuQIWlyG8TOim3ihn" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-11T13:49:30.175Z" agent="5.0 (Windows)" etag="P9k79SiMZ09Ik-tYcmS-" version="20.8.20" type="github">
   <diagram id="7Xo66sbQIgRx5lrrfv0m" name="Page-1">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,6 +257,29 @@
         </mxCell>
         <mxCell id="KyZwXAGAoId8EeByalAJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KyZwXAGAoId8EeByalAJ-9" source="db3oscVhwd0wRgTahPHw-55" target="db3oscVhwd0wRgTahPHw-57">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KyZwXAGAoId8EeByalAJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KyZwXAGAoId8EeByalAJ-10" target="KyZwXAGAoId8EeByalAJ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2020" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyZwXAGAoId8EeByalAJ-10" value="Bagi menjadi train set dan val set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyZwXAGAoId8EeByalAJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KyZwXAGAoId8EeByalAJ-12" target="KyZwXAGAoId8EeByalAJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KyZwXAGAoId8EeByalAJ-12" value="Skenario2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyZwXAGAoId8EeByalAJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KyZwXAGAoId8EeByalAJ-13" target="KyZwXAGAoId8EeByalAJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KyZwXAGAoId8EeByalAJ-13" value="Evaluasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyZwXAGAoId8EeByalAJ-15" value="Model terbaik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
