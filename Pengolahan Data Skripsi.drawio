@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T03:57:52.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KLDP68dJYk-FoveQK89r" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-06T03:58:03.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="sM9xDRrL-AZ8xv4yurI3" version="21.6.6" type="github" pages="2">
   <diagram name="Page-1" id="HswYSg3miuZkvUwzH1aY">
     <mxGraphModel dx="3216" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1849,7 +1849,7 @@
         <mxCell id="ThbT47UqE0SjtpTDIewB-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="ThbT47UqE0SjtpTDIewB-233" target="ThbT47UqE0SjtpTDIewB-239" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThbT47UqE0SjtpTDIewB-233" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Variabel Independen Tidak Memiliki Pengaruh Signifikan terhadap Kesuksesan Akademik&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ThbT47UqE0SjtpTDIewB-233" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Semua Variabel Independen Tidak Memiliki Pengaruh Signifikan terhadap Kesuksesan Akademik&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7031" y="-995" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ThbT47UqE0SjtpTDIewB-235" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;TIDAK&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
