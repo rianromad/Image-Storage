@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T03:36:17.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wWbBWWuVtgndSPEFUc1P" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-06T03:46:40.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mbLyOlJvnlynY1pBFm_q" version="21.6.6" type="github" pages="2">
   <diagram name="Page-1" id="HswYSg3miuZkvUwzH1aY">
     <mxGraphModel dx="3216" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1252,7 +1252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v_r9-xDNXQV04-4iqFk2" name="Page-2">
-    <mxGraphModel dx="-3058" dy="2906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2777" dy="3054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1782,7 +1782,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThbT47UqE0SjtpTDIewB-210" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;Variabel Independen Tidak Memiliki Korelasi Signifikan terhadap Variabel Dependen&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ThbT47UqE0SjtpTDIewB-210" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Melakukan Normalisasi Data Pada Variabel Independen&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6150" y="-380" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ThbT47UqE0SjtpTDIewB-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="ThbT47UqE0SjtpTDIewB-211" target="ThbT47UqE0SjtpTDIewB-147" edge="1">
