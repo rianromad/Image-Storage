@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T04:01:29.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7-fvG-Xz6ms4cqqTgziz" version="21.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-25T07:29:53.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0mTPUJTQbMg2xhWR8wT5" version="21.8.0" type="github" pages="3">
   <diagram name="Page-1" id="HswYSg3miuZkvUwzH1aY">
     <mxGraphModel dx="2704" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1252,7 +1252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v_r9-xDNXQV04-4iqFk2" name="Flowchart Penelitian">
-    <mxGraphModel dx="-1135" dy="3978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-3225" dy="2844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2060,115 +2060,193 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ckdpvhAXCkXnlfa4gQPB" name="Flowchart Konversi Skor">
-    <mxGraphModel dx="1750" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1820" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VDe_larlQuZ9HawukKwu-1" value="Alur Konversi Skor Challenge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VDe_larlQuZ9HawukKwu-1" value="Alur Konversi Skor Challenge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="185" y="40" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1wDcgjTA2EVHg4esIrkV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="-FQEcaEey0lBW37ot_Q4-1" target="1wDcgjTA2EVHg4esIrkV-1">
+        <mxCell id="1wDcgjTA2EVHg4esIrkV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="-FQEcaEey0lBW37ot_Q4-1" target="1wDcgjTA2EVHg4esIrkV-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-FQEcaEey0lBW37ot_Q4-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Mulai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-FQEcaEey0lBW37ot_Q4-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Mulai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="90" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="1wDcgjTA2EVHg4esIrkV-1" target="Nm2aCdEeA6F1Qd4VZpwX-1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="1wDcgjTA2EVHg4esIrkV-1" target="Nm2aCdEeA6F1Qd4VZpwX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1wDcgjTA2EVHg4esIrkV-1" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Data Skor &lt;i&gt;Challenge&lt;/i&gt;&lt;br&gt;Tabel Konversi&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="1wDcgjTA2EVHg4esIrkV-1" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Data Skor &lt;i&gt;Challenge&lt;/i&gt;&lt;br&gt;Tabel Konversi&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="220" width="225" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-1" target="Nm2aCdEeA6F1Qd4VZpwX-3">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-1" target="Nm2aCdEeA6F1Qd4VZpwX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mengonversi skor setiap &lt;i&gt;challenge &lt;/i&gt;yang berbentuk huruf menjadi angka&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mengonversi skor setiap &lt;i&gt;challenge &lt;/i&gt;yang berbentuk huruf menjadi angka&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="350" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-3" target="Nm2aCdEeA6F1Qd4VZpwX-6">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-3" target="Nm2aCdEeA6F1Qd4VZpwX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Menghitung rata-rata skor &lt;i&gt;challenge &lt;/i&gt;dari&amp;nbsp;setiap peserta&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Menghitung rata-rata skor &lt;i&gt;challenge &lt;/i&gt;dari&amp;nbsp;setiap peserta&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="480" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-6" target="Nm2aCdEeA6F1Qd4VZpwX-8">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-6" target="Nm2aCdEeA6F1Qd4VZpwX-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-6" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Rata-rata skor &lt;i&gt;challenge&lt;/i&gt;&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-6" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Rata-rata skor &lt;i&gt;challenge&lt;/i&gt;&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="610" width="225" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Selesai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Selesai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="740" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-10" value="Alur Konversi Indeks Prestasi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-10" value="Alur Konversi Indeks Prestasi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="40" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-11" target="Nm2aCdEeA6F1Qd4VZpwX-13">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-11" target="Nm2aCdEeA6F1Qd4VZpwX-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Mulai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Mulai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="90" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Selesai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Selesai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="800" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5e7SBj7uXje1fnnHbmsJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-13" target="5e7SBj7uXje1fnnHbmsJ-1">
+        <mxCell id="5e7SBj7uXje1fnnHbmsJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="Nm2aCdEeA6F1Qd4VZpwX-13" target="5e7SBj7uXje1fnnHbmsJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-13" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Data Indeks Prestasi &lt;br&gt;(&lt;i&gt;Host University&lt;/i&gt;)&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Nm2aCdEeA6F1Qd4VZpwX-13" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Data Indeks Prestasi &lt;br&gt;(&lt;i&gt;Host University&lt;/i&gt;)&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="517.5" y="220" width="225" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5e7SBj7uXje1fnnHbmsJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="5e7SBj7uXje1fnnHbmsJ-1" target="5e7SBj7uXje1fnnHbmsJ-3">
+        <mxCell id="5e7SBj7uXje1fnnHbmsJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="5e7SBj7uXje1fnnHbmsJ-1" target="5e7SBj7uXje1fnnHbmsJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PBWnoJr_t09bSrQfRSbe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="5e7SBj7uXje1fnnHbmsJ-1" target="wzZ9nrt9rlFT06uTt2VP-11">
+        <mxCell id="PBWnoJr_t09bSrQfRSbe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="5e7SBj7uXje1fnnHbmsJ-1" target="wzZ9nrt9rlFT06uTt2VP-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5e7SBj7uXje1fnnHbmsJ-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Skala Indeks Prestasi Diketahui?&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5e7SBj7uXje1fnnHbmsJ-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Skala Indeks Prestasi Diketahui?&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="350" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wzZ9nrt9rlFT06uTt2VP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="5e7SBj7uXje1fnnHbmsJ-3" target="wzZ9nrt9rlFT06uTt2VP-4">
+        <mxCell id="wzZ9nrt9rlFT06uTt2VP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="5e7SBj7uXje1fnnHbmsJ-3" target="wzZ9nrt9rlFT06uTt2VP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PBWnoJr_t09bSrQfRSbe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="5e7SBj7uXje1fnnHbmsJ-3" target="wzZ9nrt9rlFT06uTt2VP-7">
+        <mxCell id="PBWnoJr_t09bSrQfRSbe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="5e7SBj7uXje1fnnHbmsJ-3" target="wzZ9nrt9rlFT06uTt2VP-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5e7SBj7uXje1fnnHbmsJ-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Indeks Prestasi &lt;br&gt;dalam Skala 4?&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5e7SBj7uXje1fnnHbmsJ-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Indeks Prestasi &lt;br&gt;dalam Skala 4?&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="500" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wzZ9nrt9rlFT06uTt2VP-1" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;YA&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="wzZ9nrt9rlFT06uTt2VP-1" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;YA&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="630" y="450" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PBWnoJr_t09bSrQfRSbe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="wzZ9nrt9rlFT06uTt2VP-4" target="Nm2aCdEeA6F1Qd4VZpwX-12">
+        <mxCell id="PBWnoJr_t09bSrQfRSbe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="wzZ9nrt9rlFT06uTt2VP-4" target="Nm2aCdEeA6F1Qd4VZpwX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzZ9nrt9rlFT06uTt2VP-4" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Indeks Prestasi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;yang Sudah Dikonversi&lt;/b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="wzZ9nrt9rlFT06uTt2VP-4" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Indeks Prestasi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;yang Sudah Dikonversi&lt;/b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="517.5" y="660" width="225" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wzZ9nrt9rlFT06uTt2VP-6" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;YA&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="wzZ9nrt9rlFT06uTt2VP-6" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;YA&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="630" y="590" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wzZ9nrt9rlFT06uTt2VP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="wzZ9nrt9rlFT06uTt2VP-7" target="wzZ9nrt9rlFT06uTt2VP-4">
+        <mxCell id="wzZ9nrt9rlFT06uTt2VP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="wzZ9nrt9rlFT06uTt2VP-7" target="wzZ9nrt9rlFT06uTt2VP-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="950" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wzZ9nrt9rlFT06uTt2VP-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mengonversi Indeks Prestasi dalam Skala 4&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wzZ9nrt9rlFT06uTt2VP-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mengonversi Indeks Prestasi dalam Skala 4&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="505" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wzZ9nrt9rlFT06uTt2VP-10" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;TIDAK&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="wzZ9nrt9rlFT06uTt2VP-10" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;TIDAK&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="760" y="510" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PBWnoJr_t09bSrQfRSbe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="wzZ9nrt9rlFT06uTt2VP-11" target="wzZ9nrt9rlFT06uTt2VP-7">
+        <mxCell id="PBWnoJr_t09bSrQfRSbe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="wzZ9nrt9rlFT06uTt2VP-11" target="wzZ9nrt9rlFT06uTt2VP-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzZ9nrt9rlFT06uTt2VP-11" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mencari Situs mengenai Indeks Prestasi dari&lt;br&gt;&amp;nbsp;&lt;i&gt;Host University&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wzZ9nrt9rlFT06uTt2VP-11" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mencari Situs mengenai Indeks Prestasi dari&lt;br&gt;&amp;nbsp;&lt;i&gt;Host University&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="355" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PBWnoJr_t09bSrQfRSbe-7" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;TIDAK&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="PBWnoJr_t09bSrQfRSbe-7" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;TIDAK&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="750" y="360" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-1" value="Alur Konversi Indeks Prestasi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="10" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-3" target="tcj7tLPBV5lLzatF9IZI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Mulai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="60" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Selesai&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="914" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-6" target="tcj7tLPBV5lLzatF9IZI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-6" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Data Nilai Mata Kuliah&lt;br&gt;Indeks Prestasi&amp;nbsp;&lt;br&gt;Skala Indeks Prestasi&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1212.5" y="190" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-9" target="tcj7tLPBV5lLzatF9IZI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-9" target="tcj7tLPBV5lLzatF9IZI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Skala Indeks Prestasi Diketahui?&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="320" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-12" target="tcj7tLPBV5lLzatF9IZI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-12" target="tcj7tLPBV5lLzatF9IZI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Indeks Prestasi &lt;br&gt;dalam Skala 4?&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="614" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-13" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;YA&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="420" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-15" target="tcj7tLPBV5lLzatF9IZI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-15" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Indeks Prestasi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;yang Sudah Dikonversi&lt;/b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1212.5" y="774" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-16" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;YA&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="704" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-18" target="tcj7tLPBV5lLzatF9IZI-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1645" y="814" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mengonversi Indeks Prestasi dalam Skala 4&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="619" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-19" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;TIDAK&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="624" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-21" target="tcj7tLPBV5lLzatF9IZI-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1645" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-21" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mencari Situs mengenai Sistem Penilaian dari&lt;br&gt;&amp;nbsp;&lt;i&gt;Host University&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="325" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-22" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;TIDAK&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="330" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tcj7tLPBV5lLzatF9IZI-23" target="tcj7tLPBV5lLzatF9IZI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcj7tLPBV5lLzatF9IZI-23" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Memahami Metode Perhitungan Indeks Prestasi dari&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Host University&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="470" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
